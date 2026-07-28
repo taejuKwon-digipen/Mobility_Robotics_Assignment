@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "name": "Arduino-Stub",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "${workspaceFolder}/.vscode/arduino_stub"
+      ],
+      "forcedInclude": [
+        "${workspaceFolder}/.vscode/arduino_stub/Arduino.h"
+      ],
+      "cStandard": "c17",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "windows-msvc-x64"
+    }
+  ],
+  "version": 4
+}
